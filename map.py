@@ -1,7 +1,4 @@
-import os
-import subprocess
-import argparse
-import time
+import os, time, argparse, subprocess
 from configparser import ConfigParser
 
 #CONFIG
